@@ -3,7 +3,7 @@
 ## Description
 The main intent of this scenario is to complement an existing business process in an SAP solution – currently SAP S/4HANA with additional business process steps. This involves adding major logic and/or additional data and goes beyond simple UI changes.
 
-This application showcases:
+This application showcase:
 
 - Building application on SAP Cloud Platform(CP) using [SAP Cloud Application Programming Model(CAP)](https://cap.cloud.sap/docs/)
 - Consuming events from SAP S/4HANA on premise using [SAP Cloud Platform Enterprise Messaging](https://help.sap.com/viewer/bf82e6b26456494cbdd197057c09979f/Cloud/en-US/df532e8735eb4322b00bfc7e42f84e8d.html)
